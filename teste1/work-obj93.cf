@@ -1,7 +1,0 @@
-v 4
-file . "and_gate_tb.vhdl" "35b50bba7629bbd40a5ad3c0af4e2643fe4cd5f9" "20200725225422.587":
-  entity and_gate_tb at 1( 0) + 0 on 13;
-  architecture teste of and_gate_tb at 3( 39) + 0 on 14;
-file . "and_gate.vhdl" "6083037d15873660c0e339fd23771e4ade7b8d6a" "20200725225411.300":
-  entity and_gate at 1( 0) + 0 on 11;
-  architecture ckt of and_gate at 8( 85) + 0 on 12;
